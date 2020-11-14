@@ -1,0 +1,30 @@
+#favicon {
+  border-radius: 30%;
+}
+
+.cookie-banner {
+  position: fixed;
+  bottom: 40px;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  padding: 5px 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #eee;
+  border: 1px solid;
+  border-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+  }
+.close {
+  border: none;
+  color:  white;
+  border-radius: 2px;
+  cursor: pointer;
+  display: flex;
+  vertical-align: middle;
+  background-color: #3e4796;
+  
+}
